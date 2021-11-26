@@ -1,0 +1,17 @@
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.DataAccess\obj\Debug\net5.0\TSoft.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.DataAccess\obj\Debug\net5.0\TSoft.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.DataAccess\obj\Debug\net5.0\TSoft.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.DataAccess\obj\Debug\net5.0\TSoft.DataAccess.AssemblyInfo.cs
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.DataAccess\obj\Debug\net5.0\TSoft.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.DataAccess\bin\Debug\net5.0\TSoft.DataAccess.deps.json
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.DataAccess\bin\Debug\net5.0\TSoft.DataAccess.dll
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.DataAccess\bin\Debug\net5.0\ref\TSoft.DataAccess.dll
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.DataAccess\bin\Debug\net5.0\TSoft.DataAccess.pdb
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.DataAccess\bin\Debug\net5.0\TSoft.Core.dll
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.DataAccess\bin\Debug\net5.0\TSoft.Entities.dll
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.DataAccess\bin\Debug\net5.0\TSoft.Core.pdb
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.DataAccess\bin\Debug\net5.0\TSoft.Entities.pdb
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.DataAccess\obj\Debug\net5.0\TSoft.DataAccess.csproj.CopyComplete
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.DataAccess\obj\Debug\net5.0\TSoft.DataAccess.dll
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.DataAccess\obj\Debug\net5.0\ref\TSoft.DataAccess.dll
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.DataAccess\obj\Debug\net5.0\TSoft.DataAccess.pdb

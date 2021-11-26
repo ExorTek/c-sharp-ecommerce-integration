@@ -1,0 +1,15 @@
+C:\Users\Memet\Desktop\TSoftDemoWebCallAPI\TSoftDemoWebCallAPI\bin\Debug\TSoftDemoWebCallAPI.exe.config
+C:\Users\Memet\Desktop\TSoftDemoWebCallAPI\TSoftDemoWebCallAPI\bin\Debug\TSoftDemoWebCallAPI.exe
+C:\Users\Memet\Desktop\TSoftDemoWebCallAPI\TSoftDemoWebCallAPI\bin\Debug\TSoftDemoWebCallAPI.pdb
+C:\Users\Memet\Desktop\TSoftDemoWebCallAPI\TSoftDemoWebCallAPI\bin\Debug\RestSharp.dll
+C:\Users\Memet\Desktop\TSoftDemoWebCallAPI\TSoftDemoWebCallAPI\bin\Debug\RestSharp.xml
+C:\Users\Memet\Desktop\TSoftDemoWebCallAPI\TSoftDemoWebCallAPI\obj\Debug\TSoftDemoWebCallAPI.csproj.AssemblyReference.cache
+C:\Users\Memet\Desktop\TSoftDemoWebCallAPI\TSoftDemoWebCallAPI\obj\Debug\TSoftDemoWebCallAPI.ApiUI.resources
+C:\Users\Memet\Desktop\TSoftDemoWebCallAPI\TSoftDemoWebCallAPI\obj\Debug\TSoftDemoWebCallAPI.Properties.Resources.resources
+C:\Users\Memet\Desktop\TSoftDemoWebCallAPI\TSoftDemoWebCallAPI\obj\Debug\TSoftDemoWebCallAPI.csproj.GenerateResource.cache
+C:\Users\Memet\Desktop\TSoftDemoWebCallAPI\TSoftDemoWebCallAPI\obj\Debug\TSoftDemoWebCallAPI.csproj.CoreCompileInputs.cache
+C:\Users\Memet\Desktop\TSoftDemoWebCallAPI\TSoftDemoWebCallAPI\obj\Debug\TSoftDemoWebCallAPI.csproj.CopyComplete
+C:\Users\Memet\Desktop\TSoftDemoWebCallAPI\TSoftDemoWebCallAPI\obj\Debug\TSoftDemoWebCallAPI.exe
+C:\Users\Memet\Desktop\TSoftDemoWebCallAPI\TSoftDemoWebCallAPI\obj\Debug\TSoftDemoWebCallAPI.pdb
+C:\Users\Memet\Desktop\TSoftDemoWebCallAPI\TSoftDemoWebCallAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Memet\Desktop\TSoftDemoWebCallAPI\TSoftDemoWebCallAPI\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,6 @@
+C:\Users\Memet\source\repos\AdoNetDemo\Core\bin\Debug\Core.dll
+C:\Users\Memet\source\repos\AdoNetDemo\Core\bin\Debug\Core.pdb
+C:\Users\Memet\source\repos\AdoNetDemo\Core\obj\Debug\Core.csproj.AssemblyReference.cache
+C:\Users\Memet\source\repos\AdoNetDemo\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\Memet\source\repos\AdoNetDemo\Core\obj\Debug\Core.dll
+C:\Users\Memet\source\repos\AdoNetDemo\Core\obj\Debug\Core.pdb

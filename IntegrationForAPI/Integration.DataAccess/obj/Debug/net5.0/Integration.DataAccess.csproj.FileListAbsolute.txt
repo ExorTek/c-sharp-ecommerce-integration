@@ -1,0 +1,17 @@
+C:\Users\Memet\Desktop\IntegrationForAPI\Integration.DataAccess\bin\Debug\net5.0\Integration.DataAccess.deps.json
+C:\Users\Memet\Desktop\IntegrationForAPI\Integration.DataAccess\bin\Debug\net5.0\Integration.DataAccess.dll
+C:\Users\Memet\Desktop\IntegrationForAPI\Integration.DataAccess\bin\Debug\net5.0\ref\Integration.DataAccess.dll
+C:\Users\Memet\Desktop\IntegrationForAPI\Integration.DataAccess\bin\Debug\net5.0\Integration.DataAccess.pdb
+C:\Users\Memet\Desktop\IntegrationForAPI\Integration.DataAccess\bin\Debug\net5.0\Integration.Core.dll
+C:\Users\Memet\Desktop\IntegrationForAPI\Integration.DataAccess\bin\Debug\net5.0\Integration.Entities.dll
+C:\Users\Memet\Desktop\IntegrationForAPI\Integration.DataAccess\bin\Debug\net5.0\Integration.Core.pdb
+C:\Users\Memet\Desktop\IntegrationForAPI\Integration.DataAccess\bin\Debug\net5.0\Integration.Entities.pdb
+C:\Users\Memet\Desktop\IntegrationForAPI\Integration.DataAccess\obj\Debug\net5.0\Integration.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Memet\Desktop\IntegrationForAPI\Integration.DataAccess\obj\Debug\net5.0\Integration.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Memet\Desktop\IntegrationForAPI\Integration.DataAccess\obj\Debug\net5.0\Integration.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Memet\Desktop\IntegrationForAPI\Integration.DataAccess\obj\Debug\net5.0\Integration.DataAccess.AssemblyInfo.cs
+C:\Users\Memet\Desktop\IntegrationForAPI\Integration.DataAccess\obj\Debug\net5.0\Integration.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Memet\Desktop\IntegrationForAPI\Integration.DataAccess\obj\Debug\net5.0\Integration.DataAccess.csproj.CopyComplete
+C:\Users\Memet\Desktop\IntegrationForAPI\Integration.DataAccess\obj\Debug\net5.0\Integration.DataAccess.dll
+C:\Users\Memet\Desktop\IntegrationForAPI\Integration.DataAccess\obj\Debug\net5.0\ref\Integration.DataAccess.dll
+C:\Users\Memet\Desktop\IntegrationForAPI\Integration.DataAccess\obj\Debug\net5.0\Integration.DataAccess.pdb

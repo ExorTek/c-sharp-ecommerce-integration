@@ -1,0 +1,15 @@
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.Entities\bin\Debug\net5.0\TSoft.Entities.deps.json
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.Entities\bin\Debug\net5.0\TSoft.Entities.dll
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.Entities\bin\Debug\net5.0\ref\TSoft.Entities.dll
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.Entities\bin\Debug\net5.0\TSoft.Entities.pdb
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.Entities\bin\Debug\net5.0\TSoft.Core.dll
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.Entities\bin\Debug\net5.0\TSoft.Core.pdb
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.Entities\obj\Debug\net5.0\TSoft.Entities.csproj.AssemblyReference.cache
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.Entities\obj\Debug\net5.0\TSoft.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.Entities\obj\Debug\net5.0\TSoft.Entities.AssemblyInfoInputs.cache
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.Entities\obj\Debug\net5.0\TSoft.Entities.AssemblyInfo.cs
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.Entities\obj\Debug\net5.0\TSoft.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.Entities\obj\Debug\net5.0\TSoft.Entities.csproj.CopyComplete
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.Entities\obj\Debug\net5.0\TSoft.Entities.dll
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.Entities\obj\Debug\net5.0\ref\TSoft.Entities.dll
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.Entities\obj\Debug\net5.0\TSoft.Entities.pdb

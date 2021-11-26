@@ -1,0 +1,12 @@
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.Core\bin\Debug\net5.0\TSoft.Core.deps.json
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.Core\bin\Debug\net5.0\TSoft.Core.dll
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.Core\bin\Debug\net5.0\ref\TSoft.Core.dll
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.Core\bin\Debug\net5.0\TSoft.Core.pdb
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.Core\obj\Debug\net5.0\TSoft.Core.csproj.AssemblyReference.cache
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.Core\obj\Debug\net5.0\TSoft.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.Core\obj\Debug\net5.0\TSoft.Core.AssemblyInfoInputs.cache
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.Core\obj\Debug\net5.0\TSoft.Core.AssemblyInfo.cs
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.Core\obj\Debug\net5.0\TSoft.Core.csproj.CoreCompileInputs.cache
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.Core\obj\Debug\net5.0\TSoft.Core.dll
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.Core\obj\Debug\net5.0\ref\TSoft.Core.dll
+C:\Users\Memet\Desktop\TSoftAPIIntegration\TSoft.Core\obj\Debug\net5.0\TSoft.Core.pdb
